@@ -1,6 +1,6 @@
 {
   "name": "react-force-graph-labeled-links",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React component for Labeled links extesion for 2D, 3D and VR force directed graphs developed by vasturiano",
   "unpkg": "dist/react-force-graph-labeled-links.min.js",
   "main": "dist/react-force-graph-labeled-links.common.js",

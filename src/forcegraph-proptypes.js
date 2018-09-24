@@ -17,6 +17,7 @@ const commonPropTypes = {
   linkSource: PropTypes.string,
   linkTarget: PropTypes.string,
   linkLabel: PropTypes.oneOfType([PropTypes.string, PropTypes.func]),
+  linkLabeled: PropTypes.bool,
   linkHoverPrecision: PropTypes.number,
   linkColor: PropTypes.oneOfType([PropTypes.string, PropTypes.func]),
   linkAutoColorBy: PropTypes.oneOfType([PropTypes.string, PropTypes.func]),
